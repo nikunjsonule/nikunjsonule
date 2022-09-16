@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Data Science learner skilled at problem solving, technical leadership, communications and presentations with vast experience in the project full life cycle in data pipeline.
+I am Data Science skilled at problem solving, technical leadership, communications and presentations with vast experience in the project full life cycle in data pipeline.
 
 <!--
 **nikunjsonule/nikunjsonule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
